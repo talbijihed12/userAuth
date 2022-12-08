@@ -1,7 +1,7 @@
 package com.project.authentification.controller;
 
 import com.project.authentification.dto.AuthenticationResponse;
-import com.project.authentification.dto.LoginRequest;
+import com.project.authentification.payload.request.LoginRequest;
 import com.project.authentification.dto.RegisterRequest;
 import com.project.authentification.service.AuthService;
 import lombok.AllArgsConstructor;
